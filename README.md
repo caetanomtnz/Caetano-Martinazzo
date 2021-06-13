@@ -5,14 +5,14 @@
 <img src="https://cdn.discordapp.com/attachments/825353767200489505/851965707805917204/20210608_191432_0000.png">
 </p>
                           
- <p align="left">
+ <p  align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanomtnz&layout=compact"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a  href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
